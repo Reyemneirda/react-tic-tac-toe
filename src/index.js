@@ -23,6 +23,8 @@ class Start extends React.Component {
     this.setState({
       showComponent: true
     });
+
+    sss;
   }
 
   render() {
