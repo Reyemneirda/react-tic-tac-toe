@@ -25,7 +25,7 @@
   },
   "lint-staged": {
     "*.js": [
-      "eslint --fix",
+      "eslint  --no-eslintrc --rule 'semi: [error, never]' --rule 'indent: [warn, tab]'",
       "git add"
     ]
   }
