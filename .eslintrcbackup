@@ -1,0 +1,1 @@
+{"parserOptions":{"ecmaVersion":2018,"ecmaFeatures":{"jsx":true}},"env":{"es6":true,"node":true},"plugins":[],"globals":{"document":false,"navigator":false,"window":false},"rules":{"no-console":["warn",{"allow":["log","warn","error"]}],"max-lines":["warn",{"skipBlankLines":true,"skipComments":true,"max":20}],"semi":["warn","always"]}}

@@ -20,13 +20,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "node /Users/AdrienMeyer/dev/gatrix-cli/index.js lint-staged"
     }
-  },
-  "lint-staged": {
-    "*.js": [
-      "eslint  --no-eslintrc --rule 'semi: [error, never]' --rule 'indent: [warn, tab]'",
-      "git add"
-    ]
   }
 }

@@ -1,0 +1,10 @@
+AllCops:
+  DisabledByDefault: true
+Lint/InheritException:
+  Enabled: false
+  EnforcedStyle: standard_error
+Metrics/LineLength:
+  Enabled: true
+  AllowHeredoc: true
+  Severity: warning
+  Max: 80

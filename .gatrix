@@ -1,0 +1,14 @@
+id: 81
+name: react-tic-tac-toe
+slug: react-tic-tac-toe
+status: Public
+user_id: 9
+created_at: '2018-10-07T13:52:05.383Z'
+updated_at: '2018-10-07T13:52:05.383Z'
+git_url: 'git://github.com/Reyemneirda/react-tic-tac-toe.git'
+ssh_url: 'git@github.com:Reyemneirda/react-tic-tac-toe.git'
+uuid: reyemneirda/react-tic-tac-toe
+has_encryption: null
+is_encrypted: null
+has_deployment: null
+url: 'https://api.gatrix.io/reyemneirda/react-tic-tac-toe'
