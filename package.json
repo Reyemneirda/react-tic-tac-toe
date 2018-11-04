@@ -20,7 +20,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "node /Users/AdrienMeyer/dev/gatrix-cli/index.js lint-staged"
+      "prepare-commit-msg": "node /Users/AdrienMeyer/dev/gatrix-cli/index.js lint-staged"
     }
   }
 }
