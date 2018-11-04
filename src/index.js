@@ -9,8 +9,7 @@ function Square(props) {
 		</button>
 	)
 }
-//DODO
-//ZUT
+
 class Start extends React.Component {
 	constructor(props) {
 		super(props)
